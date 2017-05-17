@@ -1,5 +1,5 @@
 (module SMA_EDGE (layer F.Cu) (tedit 591C4AA4)
-  (fp_text reference ANT2 (at 4.953 -1.905) (layer F.SilkS)
+  (fp_text reference J (at 4.953 -1.905) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value SMA_Antenna (at 0 -6.35) (layer Dwgs.User) hide
